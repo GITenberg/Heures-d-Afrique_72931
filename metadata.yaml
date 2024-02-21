@@ -1,5 +1,8 @@
 _repo: Heures-d-Afrique_72931
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72931-h/images/cover.jpg
 creator:
   author:
     agent_name: Lorrain, Jean
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Lorrain
     - https://fr.wikipedia.org/wiki/Jean_Lorrain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72931#Heures-d-Afrique
 gutenberg_issued: '2024-02-11'
 gutenberg_type: Text
 identifiers:
